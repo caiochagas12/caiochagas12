@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Vinicius</h1>
-<h3 align="center">Front end Developer from Recife, Brazil.</h3>
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Caio Vinicius | 💻 Front End Developer | 🛸 Recife , Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 - 📚 I’m currently learning **React and React Native**
 
