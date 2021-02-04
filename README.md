@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Caio Vinicius</h1>
-<h3 align="center">Back end Developer from Recife, Brazil.</h3>
+<h3 align="center">Front end Developer from Recife, Brazil.</h3>
 
-- 🌱 I’m currently learning **React and React Native**
+- 📚 I’m currently learning **React and React Native**
 
 - 📫 How to reach me **caiochagas77@hotmail.com**
 
-- ⚡ Fun fact **I also can dance, take pictures and play basket**
+- 👀 Looking for a job oportunity 
+
+- ⚡ Fun fact **I also can dance, photograph and play basket**
 
 
 
