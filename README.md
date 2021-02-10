@@ -3,7 +3,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Caio Vinicius | 💻 Front End Developer | 🛸 Recife , Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-- 📚 I’m currently learning **React and React Native**
+- 📚 I’m currently learning **React Hooks**
 
 - 📫 How to reach me **caiochagas77@hotmail.com**
 
