@@ -9,7 +9,7 @@
 
 - 👀 Looking for a job oportunity 
 
-- ⚡ Fun fact **I also can dance, photograph and play basket**
+
 
 
 
